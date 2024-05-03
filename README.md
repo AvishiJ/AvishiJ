@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ["Web Based Ground Control station for internet controlled drone”](https://idronam.com/)
 
-- 🌱 I’m currently learning **React, Python, Data Visualization**
+- 🌱 I’m currently learning **Python, Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://avishijain-profile.netlify.app](https://avishijain-profile.netlify.app)
 
